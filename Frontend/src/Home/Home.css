@@ -1,0 +1,24 @@
+body {
+  background-color: #d4d4d4;
+}
+
+.Main_Header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 9%;
+
+  h1 {
+    font-size: 2.7rem;
+    color: #333;
+    margin-top: 20px;
+    font-family: "fira Code", monospace;
+  }
+  h2 {
+    font-size: 1.5rem;
+    color: #333;
+    margin-top: 10px;
+    font-family: "fira Code", monospace;
+  }
+}
